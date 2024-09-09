@@ -3,7 +3,7 @@
 Welcome to my Portfolio! I am Pratham Ajeru, a 4th-year Computer Science Engineering student. This portfolio showcases my learning of various programming languages and web technologies. I am happy to be a part of GitHub and eager to learn more.
 
 ## Check it out
-https://pathu10.github.io/portfolio/
+https://pathu10.github.io/Portfolio/
 
 ## Description
 
